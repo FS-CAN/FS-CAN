@@ -1,3 +1,3 @@
-# Initial repo for the Formula Student Open Source CAN Device 
+# Initial repo for the Formula Student CAN Device Project
 
-This will likely be transferred to an organization page and possibly split into multiple repos
+TODO: everything
